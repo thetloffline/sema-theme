@@ -1,2 +1,2 @@
-# sema
-all the stuff
+# sema-theme
+all WP theme files are here
