@@ -13,6 +13,15 @@ Text Domain: layerswp
 Template: layers-elementor
 */
 
+/* SITE NAME */
+.sitename {
+    width: 220px;
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 1.2em;
+}
+
+/* CUSTOM ARCHIVE */
 .post-container{
     padding: 35px;
     display: flex;
@@ -35,7 +44,3 @@ Template: layers-elementor
 .post-heading{
     font-size: 25px;
 }
-
-
-
-
