@@ -12,7 +12,16 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: layerswp
 Template: layers-elementor
 */
-<<<<<<< HEAD
+
+/* SITE NAME */
+.sitename {
+    width: 220px;
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 1.2em;
+}
+
+/* CUSTOM SEARCH PAGE */
 .title-container .heading {
     display: none;
 }
@@ -30,36 +39,23 @@ Template: layers-elementor
     font-size: 39px;
     font-weight: 600;
 }
-.bread-crumbs{
+.bread-crumbs {
     display: none !important;
 }
-=======
-
-/* SITE NAME */
-.sitename {
-    width: 220px;
-    font-size: 1.5rem;
-    font-weight: 700;
-    line-height: 1.2em;
-}
-
-/* CUSTOM ARCHIVE */
->>>>>>> 351aaa10ee1dc9cf7f732013f71e41765f0e308b
-.post-container{
+.post-container {
     padding: 35px;
     display: flex;
     flex-wrap: nowrap;
 }
-.post-thumbnail{
+.post-thumbnail {
     height: 100px;
     width: 300px;
 }
-
-.post-text-content{
+.post-text-content {
     margin-left: 30px;
 }
-.post-meta{
+.post-meta {
 }
-.post-heading{
+.post-heading {
     font-size: 25px;
 }
