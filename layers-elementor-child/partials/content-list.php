@@ -21,9 +21,9 @@ global $post, $layers_post_meta_to_display; ?>
 				<?php do_action('layers_list_post_content'); ?>
 			<?php } ?>
 		</div>
-		<div class="read-more">
+	<!-- 	<div class="read-more">
 			<a href="<?php the_permalink(); ?>">Read more >></a>
-		</div>
+		</div> -->
 
 	</div>
 </article>
