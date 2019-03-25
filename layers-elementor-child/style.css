@@ -52,10 +52,13 @@ Template: layers-elementor
     width: 300px;
 }
 .post-text-content {
-    margin-left: 30px;
+    margin-left: 0px;
 }
 .post-meta {
 }
 .post-heading {
-    font-size: 35px;
+    color: #7a7a7a;
+    font-size: 1.6em;
+    line-height: 1.4em;
+    font-weight: 600;
 }
