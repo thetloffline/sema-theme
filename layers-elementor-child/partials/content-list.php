@@ -8,9 +8,9 @@
 
 global $post, $layers_post_meta_to_display; ?>
 <article class="post-container" id="post-<?php the_ID(); ?>" <?php post_class( 'push-bottom-large' ); ?>>
-	<div class="post-thumbnail">
+	<!-- <div class="post-thumbnail">
 		<?php echo layers_post_featured_media( array( 'postid' => get_the_ID(), 'wrap_class' => 'post-thumbnail', 'size' => 'large' ) ); ?>
-	</div>
+	</div> -->
 	<div class="post-text-content">
 		<h1 class="post-heading"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h1>
 		<div class="post-meta">
