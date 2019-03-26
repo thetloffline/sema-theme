@@ -128,6 +128,19 @@ body{
   background-color: #6c00f9 !important;
 }
 
+/* PASSWORD RECOVERY */
+.wpum-password-recovery-form {
+  width: 500px;
+  margin: auto;
+  padding-top: 80px;
+  padding-bottom: 10px;
+}
+.wpum-action-links {
+  width: 500px;
+  margin: auto;
+  padding-bottom: 50vh;
+}
+
 /* PROJECT RELATED TO A NEWS */
 .related-project{
   visibility: hidden;
