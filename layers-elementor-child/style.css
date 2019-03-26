@@ -129,16 +129,11 @@ body{
 }
 
 /* PASSWORD RECOVERY */
-.wpum-password-recovery-form {
-  width: 500px;
-  margin: auto;
-  padding-top: 80px;
-  padding-bottom: 10px;
+.wpum-password-recovery-form > p {
+  padding-bottom: 20px;
 }
 .wpum-action-links {
-  width: 500px;
-  margin: auto;
-  padding-bottom: 50vh;
+  padding-top: 10px;
 }
 
 /* PROJECT RELATED TO A NEWS */
