@@ -94,6 +94,40 @@ h2{
 	padding: 10px;
 }
 
+/* REGISTER */
+body{
+  font-family: "Roboto", Sans-serif;
+}
+.wpum-form fieldset{
+  padding: 0 0 1.8em; !important;
+}
+.wpum-form fieldset label{
+  color: #707070;
+  font-family: "Roboto", Sans-serif;
+  font-weight: 400;
+}
+.input-text, .input-email{
+  height: 2.8em !important;
+  font-size: 1.1em !important;
+  border: 1px solid #818a91;
+  border-radius: 4px
+  
+}
+.button{
+  font-family: "Roboto", Sans-serif;
+  font-size: 1.2em !important;
+  font-weight: 500 !important;
+  height: 2.2em !important;
+  width: 100% !important;
+  border-width: 0px;
+  border-radius: 2px !important;
+  background-color: rgba(41,0,191,0.95) !important;
+}
+.button:hover{
+  color: white !important; 
+  background-color: #6c00f9 !important;
+}
+
 /* PROJECT RELATED TO A NEWS */
 .related-project{
   visibility: hidden;
